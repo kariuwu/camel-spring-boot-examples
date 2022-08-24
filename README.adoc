@@ -27,7 +27,7 @@ readme's instructions.
 === Examples
 
 // examples: START
-Number of Examples: 58 (0 deprecated)
+Number of Examples: 59 (0 deprecated)
 
 [width="100%",cols="4,2,4",options="header"]
 |===
@@ -155,7 +155,7 @@ Number of Examples: 58 (0 deprecated)
 
 | link:rest-swagger/README.adoc[Rest Swagger] (rest-swagger) | Rest | An example showing Camel REST DSL and Swagger with Spring Boot
 
-| link:sapjcoserver/readme.md[SAP JCOServer] (sapjcoserver) | SAP | An example showing to receive SAP ABAP call's result then direct it to Camel File with Spring Boot
+| link:sapjcoserver/readme.md[Sapjcoserver] (sapjcoserver) | SAP | An example showing how to work with Camel,SAP JCOServer and Spring Boot
 |===
 // examples: END
 
